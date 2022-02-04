@@ -1,0 +1,64 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: output.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- lib/arm64-v8a/libexpressive_concepts_model_less_predictor_jni_native.so
+- lib/arm64-v8a/libintegrated_shared_object.so
+- lib/arm64-v8a/libogg_opus_encoder.so
+- lib/arm64-v8a/libtensorflow_jni.so
+- META-INF/services/com.fasterxml.jackson.core.JsonFactory
+- META-INF/services/com.google.android.libraries.inputmethod.module.IModuleProvider
+- META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader
+- png
+- gif
+- wav
+- jpg
+- assets/emoji_search_en_us.zip
+- assets/empty_asset_generated_by_bazel~
+- assets/phenotype/com_google_android_gms_learning_package_metadata.binarypb
+- assets/phenotype/com_google_android_libraries_consentverifier_package_metadata.binarypb
+- assets/theme/style_sheet_color_black_border.binarypb
+- assets/theme/style_sheet_color_blue_border.binarypb
+- assets/theme/style_sheet_color_blue_grey_border.binarypb
+- assets/theme/style_sheet_color_brown_border.binarypb
+- assets/theme/style_sheet_color_cyan_border.binarypb
+- assets/theme/style_sheet_color_deep_purple_border.binarypb
+- assets/theme/style_sheet_color_deep_purple_override.binarypb
+- assets/theme/style_sheet_color_green_border.binarypb
+- assets/theme/style_sheet_color_light_pink_border.binarypb
+- assets/theme/style_sheet_color_pink_border.binarypb
+- assets/theme/style_sheet_color_red_border.binarypb
+- assets/theme/style_sheet_color_teal_border.binarypb
+- assets/theme/style_sheet_default_sw400.binarypb
+- assets/theme/style_sheet_default_sw600.binarypb
+- assets/theme/style_sheet_default_sw768.binarypb
+- assets/theme/style_sheet_google_blue_dark_border.binarypb
+- assets/theme/style_sheet_google_blue_light_border.binarypb
+- assets/theme/style_sheet_holo_blue_border.binarypb
+- assets/theme/style_sheet_holo_white_border.binarypb
+- assets/theme/theme_package_metadata_no_background.binarypb
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: com.iflytek.inputmethod.miui
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  LICENSE_OFL: '0'
+  LICENSE_UNICODE: '0'
+  stamp-cert-sha256: '8'
+  com/google/android/libraries/micore/learning/testing/grpctestchannel/CAcert.pem: '0'
+  com/google/api/client/repackaged/org/apache/commons/codec/language/dmrules.txt: '0'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.0
+versionInfo:
+  versionCode: '38012354'
+  versionName: 9.8.06.328163918-release-arm64-v8a

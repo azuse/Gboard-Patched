@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="animator" name="APKTOOL_DUMMY_3">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_4">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_8">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_a">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_1a">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_1b">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_1e">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_20">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_22">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_26">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_27">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_28">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_2d">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_2e">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_2f">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_30">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_31">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_36">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_37">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_38">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_40">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_41">@null</item>
+    <item type="animator" name="APKTOOL_DUMMY_42">@null</item>
+</resources>

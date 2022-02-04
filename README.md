@@ -1,3 +1,20 @@
+Changes:   
+Change package name to com.iflytek.inputmethod.miui  
+Add keystore android.keystore (fixed signature check)  keyStorePassword: 123456 keyAlias: android keyPassword: 123456
+
+Recommend use apklab to compile the apk, here is the config for apklab to use android.keystore file:
+```
+settings.json
+{
+    ...
+    "apklab.keystorePath": "path\to\android.keystore",
+    "apklab.keystorePassword": "123456",
+    "apklab.keyAlias": "android",
+    "apklab.keyPassword": "123456"
+}
+```
+==============
+
 Patched GBoard
 ===============
 
