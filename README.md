@@ -16,6 +16,7 @@ settings.json
 
 The purpose of changing package name is to fake trigger miui's keyboard optimize option. You can find more information here: (CN)
 https://gitee.com/xixilala-2019/ime-of-xiaomi-optimization
+
 ---
 
 Patched GBoard
